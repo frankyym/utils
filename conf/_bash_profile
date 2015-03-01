@@ -4,6 +4,7 @@
 alias tl="tmux ls"
 alias tks="tmux kill-session -t"
 alias tksall="tmux kill-session -a"
+alias tns="tmux new -s"
 
 # for color
 export CLICOLOR=1
