@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{1. Splitting Linked List}{}
+\BOOKMARK [2][-]{subsection.1.1}{1.1. Solution}{section.1}
+\BOOKMARK [1][-]{section.2}{2. Insert into a Cyclic Sorted List}{}
+\BOOKMARK [2][-]{subsection.2.1}{2.1. Hint}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{2.2. Solution}{section.2}
+\BOOKMARK [1][-]{section.3}{3. Detecting a Loop in a Singly Linked List}{}
+\BOOKMARK [2][-]{subsection.3.1}{3.1. Solution}{section.3}
+\BOOKMARK [2][-]{subsection.3.2}{3.2. Alternative solutions}{section.3}
+\BOOKMARK [1][-]{section.4}{4. Reversing linked list iteratively and recursively}{}
+\BOOKMARK [2][-]{subsection.4.1}{4.1. Solution}{section.4}
+\BOOKMARK [1][-]{section.5}{5. Convert Sorted List to Balanced Binary Search Tree }{}
+\BOOKMARK [2][-]{subsection.5.1}{5.1. Hint}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{5.2. Best Solution}{section.5}
+\BOOKMARK [1][-]{section.6}{6. A Distance Maximizing Problem}{}
+\BOOKMARK [2][-]{figure.4}{6.1. Best Solution O\(N\)}{section.6}
+\BOOKMARK [1][-]{section.7}{7. Find the k-th Smallest Element in the Union of Two Sorted Arrays}{}
+\BOOKMARK [2][-]{subsection.7.1}{7.1. The best solution, but non-trivial, O\(logm + logn\)}{section.7}
+\BOOKMARK [1][-]{section.8}{8. Reverse a number}{}
+\BOOKMARK [2][-]{subsection.8.1}{8.1. Solution in O\(logn\)}{section.8}
+\BOOKMARK [1][-]{section.9}{9. Tips on Interviews}{}
+\BOOKMARK [2][-]{subsection.9.1}{9.1. Hiring: The Lake Wobegon Strategy}{section.9}
+\BOOKMARK [2][-]{subsection.9.2}{9.2. Internal Reference}{section.9}
+\BOOKMARK [2][-]{subsection.9.3}{9.3. Personel Characters}{section.9}
+\BOOKMARK [2][-]{subsection.9.4}{9.4. How to Judge an Interviewee by Answering Questions}{section.9}
+\BOOKMARK [2][-]{subsection.9.5}{9.5. The Art of Answer Questions}{section.9}
+\BOOKMARK [2][-]{subsection.9.6}{9.6. What to do when you fail in an interview}{section.9}

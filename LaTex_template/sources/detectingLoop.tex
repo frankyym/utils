@@ -1,0 +1,19 @@
+\begin{minted}[mathescape,
+               linenos,
+               numbersep=5pt,
+               fontsize=\footnotesize,
+               frame=lines,
+			   tabsize=4,
+               framesep=2mm]{cpp}
+
+bool hasLoop(Node *head) {
+  Node *slow = head, *fast = head;
+  while (slow && fast && fast->next) {
+    slow = slow->next;
+    fast = fast->next->next;
+    if (slow == fast)
+      return true;
+  }
+  return false;
+}
+\end{minted}

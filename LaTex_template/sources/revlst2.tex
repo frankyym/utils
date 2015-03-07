@@ -1,0 +1,17 @@
+\begin{minted}[mathescape,
+               linenos,
+               numbersep=5pt,
+               fontsize=\footnotesize,
+               frame=lines,
+               framesep=2mm]{cpp}
+               
+void reverse(Node*& p) {
+  if (!p) return;
+  Node* rest = p->next;
+  if (!rest) return;
+  reverse(rest);
+  p->next->next = p;
+  p->next = NULL;
+  p = rest;
+}
+\end{minted}

@@ -1,0 +1,28 @@
+\setcounter {tocdepth}{1}
+\contentsline {section}{\tocsection {}{1}{Splitting Linked List}}{1}{section.1}
+\contentsline {subsection}{\tocsubsection {}{1.1}{Solution}}{2}{subsection.1.1}
+\contentsline {section}{\tocsection {}{2}{Insert into a Cyclic Sorted List}}{2}{section.2}
+\contentsline {subsection}{\tocsubsection {}{2.1}{Hint}}{3}{subsection.2.1}
+\contentsline {subsection}{\tocsubsection {}{2.2}{Solution}}{3}{subsection.2.2}
+\contentsline {section}{\tocsection {}{3}{Detecting a Loop in a Singly Linked List}}{4}{section.3}
+\contentsline {subsection}{\tocsubsection {}{3.1}{Solution}}{4}{subsection.3.1}
+\contentsline {subsection}{\tocsubsection {}{3.2}{Alternative solutions}}{4}{subsection.3.2}
+\contentsline {section}{\tocsection {}{4}{Reversing linked list iteratively and recursively}}{5}{section.4}
+\contentsline {subsection}{\tocsubsection {}{4.1}{Solution}}{5}{subsection.4.1}
+\contentsline {section}{\tocsection {}{5}{Convert Sorted List to Balanced Binary Search Tree }}{6}{section.5}
+\contentsline {subsection}{\tocsubsection {}{5.1}{Hint}}{6}{subsection.5.1}
+\contentsline {subsection}{\tocsubsection {}{5.2}{Best Solution}}{6}{subsection.5.2}
+\contentsline {section}{\tocsection {}{6}{A Distance Maximizing Problem}}{7}{section.6}
+\contentsline {subsection}{\tocsubsection {}{6.1}{Best Solution $O(N)$}}{7}{figure.4}
+\contentsline {section}{\tocsection {}{7}{Find the $k$-th Smallest Element in the Union of Two Sorted Arrays}}{8}{section.7}
+\contentsline {subsection}{\tocsubsection {}{7.1}{The best solution, but non-trivial, $O(\qopname \relax o{log}m + \qopname \relax o{log}n)$}}{8}{subsection.7.1}
+\contentsline {section}{\tocsection {}{8}{Reverse a number}}{9}{section.8}
+\contentsline {subsection}{\tocsubsection {}{8.1}{Solution in $O(\qopname \relax o{log}n)$}}{9}{subsection.8.1}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\tocsection {}{9}{Tips on Interviews}}{10}{section.9}
+\contentsline {subsection}{\tocsubsection {}{9.1}{Hiring: The Lake Wobegon Strategy}}{10}{subsection.9.1}
+\contentsline {subsection}{\tocsubsection {}{9.2}{Internal Reference}}{11}{subsection.9.2}
+\contentsline {subsection}{\tocsubsection {}{9.3}{Personel Characters}}{11}{subsection.9.3}
+\contentsline {subsection}{\tocsubsection {}{9.4}{How to Judge an Interviewee by Answering Questions}}{12}{subsection.9.4}
+\contentsline {subsection}{\tocsubsection {}{9.5}{The Art of Answer Questions}}{12}{subsection.9.5}
+\contentsline {subsection}{\tocsubsection {}{9.6}{What to do when you fail in an interview}}{13}{subsection.9.6}

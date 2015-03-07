@@ -1,0 +1,20 @@
+\begin{minted}[mathescape,
+               linenos,
+               numbersep=5pt,
+               fontsize=\footnotesize,
+               frame=lines,
+               framesep=2mm]{cpp}
+               
+void reverse(Node*& head) {
+  if (!head) return;
+  Node* prev = NULL;
+  Node* curr = head;
+  while (curr) {
+    Node* next = curr->next;
+    curr->next = prev;
+    prev = curr;
+    curr = next;
+  }
+  head = prev;
+}
+\end{minted}
