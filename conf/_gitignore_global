@@ -1,6 +1,6 @@
 # Set up a global git ignore file
 # git config --global core.excludesfile /pwd/_gitignore_global
-# 
+# set variable in .gitconfig (excludesfile = /pwd/_gitignore_global)
 
 # Compiled source #
 ###################
