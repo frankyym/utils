@@ -4,6 +4,8 @@ syntax on
 set autoread
 set nocp
 set bs=indent,eol,start  " Set backspace
+" not allow auto-indent when paste
+set paste
 
 filetype plugin on
 
