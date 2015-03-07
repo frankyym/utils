@@ -1,3 +1,5 @@
+" use "source pwd/_vimrc" on local file to sync everywhere
+
 syntax on
 set autoread
 set nocp
