@@ -23,6 +23,7 @@ set si " smart indent
 "set ci
 set tabstop=4
 set shiftwidth=4  "auto-indent amount when using cindent
+set softtabstop=4
 set guifont=Menlo:h17
 
 " Search 
